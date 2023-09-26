@@ -1,0 +1,1084 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Alpha Raptor Renegades (Assault Mecha)
+  rotate: false
+  xy: 1137, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Air Buggy
+  rotate: false
+  xy: 210, 56
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Artillery Mecha
+  rotate: false
+  xy: 313, 145
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Assault Hydrofoil
+  rotate: false
+  xy: 1034, 704
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Assault Mecha
+  rotate: false
+  xy: 416, 234
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Battle Psion
+  rotate: false
+  xy: 4, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Battleship
+  rotate: false
+  xy: 1016, 640
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Behemoth
+  rotate: false
+  xy: 4, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Boondock Posse (Frontier Militia)
+  rotate: false
+  xy: 107, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Bugwolf
+  rotate: false
+  xy: 4, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Protection Mecha
+  rotate: false
+  xy: 519, 323
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Clone Trooper
+  rotate: false
+  xy: 107, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colonial Armor
+  rotate: false
+  xy: 622, 412
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colonial Marine
+  rotate: false
+  xy: 210, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colonial Ranger
+  rotate: false
+  xy: 4, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colonizer
+  rotate: false
+  xy: 725, 501
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colonizer-xeno
+  rotate: false
+  xy: 828, 590
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colony Marksman
+  rotate: false
+  xy: 107, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Colony Rifleman
+  rotate: false
+  xy: 210, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Combat Ambulance
+  rotate: false
+  xy: 931, 679
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Combat Drone
+  rotate: false
+  xy: 1016, 576
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Combat Medic
+  rotate: false
+  xy: 313, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Combat Rover
+  rotate: false
+  xy: 1034, 768
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Contractor
+  rotate: false
+  xy: 4, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Corvette
+  rotate: false
+  xy: 998, 512
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cutty Sharks (Light Hydrofoil)
+  rotate: false
+  xy: 398, 24
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cyberheli
+  rotate: false
+  xy: 501, 113
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cyborg Sniper
+  rotate: false
+  xy: 107, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Darter
+  rotate: false
+  xy: 210, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Delver Team
+  rotate: false
+  xy: 313, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Desolator
+  rotate: false
+  xy: 416, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dog Soldier
+  rotate: false
+  xy: 4, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Drop Tank
+  rotate: false
+  xy: 1137, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Drop Trooper
+  rotate: false
+  xy: 107, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dune Raiders (Light Buggy)
+  rotate: false
+  xy: 1222, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Echidna
+  rotate: false
+  xy: 210, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Behemoth
+  rotate: false
+  xy: 1987, 983
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian
+  rotate: false
+  xy: 604, 202
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-xeno
+  rotate: false
+  xy: 707, 291
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer
+  rotate: false
+  xy: 810, 380
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer-xeno
+  rotate: false
+  xy: 913, 469
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Gigantes
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military
+  rotate: false
+  xy: 985, 448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military-xeno
+  rotate: false
+  xy: 1911, 764
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Mycon
+  rotate: false
+  xy: 1987, 947
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Europan Deadshots (Colony Marksman)
+  rotate: false
+  xy: 313, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Exoframe Legionnaire
+  rotate: false
+  xy: 416, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Exoframe Sniper
+  rotate: false
+  xy: 519, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Exoframe Soldier
+  rotate: false
+  xy: 4, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Expunger
+  rotate: false
+  xy: 107, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/FTL Drive
+  rotate: false
+  xy: 1222, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/FTL Navigations Bridge
+  rotate: false
+  xy: 1307, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fierce Eels (Light Hovercraft)
+  rotate: false
+  xy: 1307, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Floating Furies (Hovertank)
+  rotate: false
+  xy: 1392, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frontier Militia
+  rotate: false
+  xy: 210, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/GHOST Unit
+  rotate: false
+  xy: 313, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gigantes
+  rotate: false
+  xy: 416, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Graviton Cannon
+  rotate: false
+  xy: 1392, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Graviton Gunner
+  rotate: false
+  xy: 519, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Engineer
+  rotate: false
+  xy: 622, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great General
+  rotate: false
+  xy: 4, 307
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Geneticist
+  rotate: false
+  xy: 107, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Influencer
+  rotate: false
+  xy: 210, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Mad Scientist
+  rotate: false
+  xy: 313, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Merchant
+  rotate: false
+  xy: 416, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Nomad
+  rotate: false
+  xy: 519, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Scientist
+  rotate: false
+  xy: 622, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Visionary
+  rotate: false
+  xy: 725, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Guerilla
+  rotate: false
+  xy: 4, 218
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gun Lobster
+  rotate: false
+  xy: 107, 307
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hovercarrier
+  rotate: false
+  xy: 1477, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hovertank
+  rotate: false
+  xy: 1477, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hungry Orcas (Assault Hydrofoil)
+  rotate: false
+  xy: 1119, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hybrid Trooper
+  rotate: false
+  xy: 210, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hyperspace Core
+  rotate: false
+  xy: 1562, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Iron Arrow Besiegers (Missile Artillery)
+  rotate: false
+  xy: 1562, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Itano's Disciples (Anti-Air Buggy)
+  rotate: false
+  xy: 1647, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jabal Drop Mecha
+  rotate: false
+  xy: 1647, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Jovian Wolves Company (Exoframe Sniper)
+  rotate: false
+  xy: 313, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Laser Mecha
+  rotate: false
+  xy: 1732, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Laser Tank
+  rotate: false
+  xy: 1732, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Laser Trooper
+  rotate: false
+  xy: 416, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Light Buggy
+  rotate: false
+  xy: 1817, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Light Hovercraft
+  rotate: false
+  xy: 1817, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Light Hydrofoil
+  rotate: false
+  xy: 1191, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lurker
+  rotate: false
+  xy: 519, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Marine
+  rotate: false
+  xy: 622, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Martian Free Rifles (Colony Rifleman)
+  rotate: false
+  xy: 725, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mirage Tank
+  rotate: false
+  xy: 1902, 946
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mirage Trooper
+  rotate: false
+  xy: 828, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Artillery
+  rotate: false
+  xy: 1902, 873
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Destroyer
+  rotate: false
+  xy: 1263, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Rover
+  rotate: false
+  xy: 1137, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mnewer Attack Mecha
+  rotate: false
+  xy: 1222, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mobile Fortress
+  rotate: false
+  xy: 1307, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mycon
+  rotate: false
+  xy: 4, 129
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nanite Life Support
+  rotate: false
+  xy: 1392, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Narco Smuggler
+  rotate: false
+  xy: 107, 218
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nemo's Pack (Submersible)
+  rotate: false
+  xy: 1335, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Neo-BOPE
+  rotate: false
+  xy: 210, 307
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Neon Dragon
+  rotate: false
+  xy: 313, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nerve Staple Conscript
+  rotate: false
+  xy: 416, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Oathkeeper
+  rotate: false
+  xy: 519, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Panther
+  rotate: false
+  xy: 622, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Peacekeeper Militia
+  rotate: false
+  xy: 725, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Penal Legionnaire
+  rotate: false
+  xy: 828, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Phantom Submersible
+  rotate: false
+  xy: 1407, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Photon Gunners (Laser Trooper)
+  rotate: false
+  xy: 931, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/PrismTech Field Testers (Laser Tank)
+  rotate: false
+  xy: 1477, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Privateer
+  rotate: false
+  xy: 1479, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Recon Mecha
+  rotate: false
+  xy: 1562, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Redhorse Striders (Recon Mecha)
+  rotate: false
+  xy: 1647, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Religious Martyr
+  rotate: false
+  xy: 4, 40
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Religious Zealot
+  rotate: false
+  xy: 107, 129
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rock Hoppers (Drop Trooper)
+  rotate: false
+  xy: 210, 218
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rover Boys (Rover Explorer)
+  rotate: false
+  xy: 1732, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rover Explorer
+  rotate: false
+  xy: 1817, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rover Surveyor
+  rotate: false
+  xy: 1902, 800
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/SPECTRE (Stealth Operative)
+  rotate: false
+  xy: 313, 307
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Scavenger
+  rotate: false
+  xy: 416, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Seadog
+  rotate: false
+  xy: 1551, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Siege Walker
+  rotate: false
+  xy: 313, 72
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Silver Arbalest Company (Artillery Mecha)
+  rotate: false
+  xy: 416, 161
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops
+  rotate: false
+  xy: 519, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Stalker
+  rotate: false
+  xy: 622, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Stasis Pod Arrays
+  rotate: false
+  xy: 398, 88
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Stealth Operative
+  rotate: false
+  xy: 725, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Steel Legion Detachment (Colonial Armor)
+  rotate: false
+  xy: 519, 250
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Stim Trooper
+  rotate: false
+  xy: 828, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submersible
+  rotate: false
+  xy: 1623, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sundowner Company (Exoframe Soldier)
+  rotate: false
+  xy: 931, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Svyatogor Crawler
+  rotate: false
+  xy: 501, 177
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swarm Drones
+  rotate: false
+  xy: 1695, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/T-Series
+  rotate: false
+  xy: 1034, 930
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tactical Mobile Uplink
+  rotate: false
+  xy: 622, 339
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Bugwolf
+  rotate: false
+  xy: 107, 40
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Darter
+  rotate: false
+  xy: 210, 129
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Echidna
+  rotate: false
+  xy: 313, 218
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Gun Lobster
+  rotate: false
+  xy: 416, 307
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Stalker
+  rotate: false
+  xy: 519, 396
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tame Winghead
+  rotate: false
+  xy: 622, 485
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tidehunters (Corvette)
+  rotate: false
+  xy: 1767, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Valente APC
+  rotate: false
+  xy: 604, 266
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Visionary
+  rotate: false
+  xy: 725, 574
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Vulture Combat Drone
+  rotate: false
+  xy: 1839, 736
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/War Buggy
+  rotate: false
+  xy: 725, 428
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/War Casket
+  rotate: false
+  xy: 707, 355
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wendigo
+  rotate: false
+  xy: 828, 663
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Winghead
+  rotate: false
+  xy: 931, 752
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Worker
+  rotate: false
+  xy: 828, 517
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Worker-xeno
+  rotate: false
+  xy: 810, 444
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wurm
+  rotate: false
+  xy: 1034, 841
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/ZANKER Mecha
+  rotate: false
+  xy: 931, 606
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Zero Point Ship Reactor
+  rotate: false
+  xy: 913, 533
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
