@@ -6,1106 +6,1106 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Alpha Raptor Renegades (Assault Mecha)
   rotate: false
-  xy: 1137, 946
+  xy: 416, 237
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Air Buggy
   rotate: false
-  xy: 210, 56
+  xy: 519, 326
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artillery Mecha
   rotate: false
-  xy: 313, 145
+  xy: 622, 415
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Assault Hydrofoil
   rotate: false
-  xy: 1289, 736
+  xy: 586, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Assault Mecha
   rotate: false
-  xy: 416, 234
+  xy: 725, 504
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Battle Psion
   rotate: false
-  xy: 4, 930
+  xy: 4, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Battleship
   rotate: false
-  xy: 1361, 736
+  xy: 586, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Behemoth
   rotate: false
-  xy: 4, 841
+  xy: 4, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Boondock Posse (Frontier Militia)
   rotate: false
-  xy: 107, 930
+  xy: 107, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bugwolf
   rotate: false
-  xy: 4, 752
+  xy: 4, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Protection Mecha
   rotate: false
-  xy: 519, 323
+  xy: 828, 593
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Clone Trooper
   rotate: false
-  xy: 107, 841
+  xy: 107, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colonial Armor
   rotate: false
-  xy: 622, 412
+  xy: 931, 682
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colonial Marine
   rotate: false
-  xy: 210, 930
+  xy: 210, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colonial Ranger
   rotate: false
-  xy: 4, 663
+  xy: 4, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colonizer
   rotate: false
-  xy: 725, 501
+  xy: 1034, 771
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colonizer-xeno
   rotate: false
-  xy: 828, 590
+  xy: 1137, 860
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colony Marksman
   rotate: false
-  xy: 107, 752
+  xy: 107, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Colony Rifleman
   rotate: false
-  xy: 210, 841
+  xy: 210, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Combat Ambulance
   rotate: false
-  xy: 931, 679
+  xy: 1240, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Combat Drone
   rotate: false
-  xy: 1433, 736
+  xy: 586, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Combat Medic
   rotate: false
-  xy: 313, 930
+  xy: 313, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Combat Rover
   rotate: false
-  xy: 1034, 768
+  xy: 313, 59
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-Landfall era
+  rotate: false
+  xy: 416, 164
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-Landfall era-1
+  rotate: false
+  xy: 1325, 949
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-Landfall era-2
+  rotate: false
+  xy: 1410, 949
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-xeno
+  rotate: false
+  xy: 1495, 949
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-xeno-1
+  rotate: false
+  xy: 1580, 949
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Constructor-xeno-2
+  rotate: false
+  xy: 1580, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Contractor
   rotate: false
-  xy: 4, 574
+  xy: 4, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Corvette
   rotate: false
-  xy: 1505, 736
+  xy: 658, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cutty Sharks (Light Hydrofoil)
   rotate: false
-  xy: 1577, 736
+  xy: 658, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cyberheli
   rotate: false
-  xy: 1649, 736
+  xy: 658, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cyborg Sniper
   rotate: false
-  xy: 107, 663
+  xy: 107, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Darter
   rotate: false
-  xy: 210, 752
+  xy: 210, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Delver Team
   rotate: false
-  xy: 313, 841
+  xy: 313, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Desolator
   rotate: false
-  xy: 416, 930
+  xy: 416, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dog Soldier
   rotate: false
-  xy: 4, 485
+  xy: 4, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Drop Tank
   rotate: false
-  xy: 1137, 873
+  xy: 1665, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Drop Trooper
   rotate: false
-  xy: 107, 574
+  xy: 107, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dune Raiders (Light Buggy)
   rotate: false
-  xy: 1222, 946
+  xy: 1750, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Echidna
   rotate: false
-  xy: 210, 663
+  xy: 210, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Behemoth
   rotate: false
-  xy: 4, 4
-  size: 32, 28
-  orig: 32, 28
+  xy: 313, 755
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian
   rotate: false
-  xy: 1721, 736
+  xy: 810, 383
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-xeno
   rotate: false
-  xy: 1793, 736
+  xy: 913, 472
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer
   rotate: false
-  xy: 1865, 736
+  xy: 1016, 561
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer-xeno
   rotate: false
-  xy: 1016, 631
+  xy: 1119, 650
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Gigantes
   rotate: false
-  xy: 1987, 983
-  size: 32, 28
-  orig: 32, 28
+  xy: 416, 844
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military
   rotate: false
-  xy: 1937, 736
+  xy: 1222, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military-xeno
   rotate: false
-  xy: 1407, 700
-  size: 32, 28
-  orig: 32, 28
+  xy: 1294, 739
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Mycon
   rotate: false
-  xy: 44, 4
-  size: 32, 28
-  orig: 32, 28
+  xy: 519, 933
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Europan Deadshots (Colony Marksman)
   rotate: false
-  xy: 313, 752
+  xy: 4, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Exoframe Legionnaire
   rotate: false
-  xy: 416, 841
+  xy: 107, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Exoframe Sniper
   rotate: false
-  xy: 519, 930
+  xy: 210, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Exoframe Soldier
   rotate: false
-  xy: 4, 396
+  xy: 313, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Expunger
   rotate: false
-  xy: 107, 485
+  xy: 416, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/FTL Drive
   rotate: false
-  xy: 1222, 873
+  xy: 1835, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/FTL Navigations Bridge
   rotate: false
-  xy: 1307, 946
+  xy: 1920, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Fierce Eels (Light Hovercraft)
   rotate: false
-  xy: 1307, 873
+  xy: 416, 91
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Floating Furies (Hovertank)
   rotate: false
-  xy: 1392, 946
+  xy: 519, 253
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Frontier Militia
   rotate: false
-  xy: 210, 574
+  xy: 519, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/GHOST Unit
   rotate: false
-  xy: 313, 663
+  xy: 622, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gigantes
   rotate: false
-  xy: 416, 752
+  xy: 4, 310
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Graviton Cannon
   rotate: false
-  xy: 1392, 873
+  xy: 501, 180
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Graviton Gunner
   rotate: false
-  xy: 519, 841
+  xy: 107, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Engineer
   rotate: false
-  xy: 622, 930
+  xy: 210, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great General
   rotate: false
-  xy: 4, 307
+  xy: 313, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Geneticist
   rotate: false
-  xy: 107, 396
+  xy: 416, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Influencer
   rotate: false
-  xy: 210, 485
+  xy: 519, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Mad Scientist
   rotate: false
-  xy: 313, 574
+  xy: 622, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Merchant
   rotate: false
-  xy: 416, 663
+  xy: 725, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Nomad
   rotate: false
-  xy: 519, 752
+  xy: 4, 221
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scientist
   rotate: false
-  xy: 622, 841
+  xy: 107, 310
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Visionary
   rotate: false
-  xy: 725, 930
+  xy: 210, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guerilla
   rotate: false
-  xy: 4, 218
+  xy: 313, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gun Lobster
   rotate: false
-  xy: 107, 307
+  xy: 416, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hovercarrier
   rotate: false
-  xy: 1477, 946
+  xy: 501, 107
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hovertank
   rotate: false
-  xy: 1477, 873
+  xy: 622, 342
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hungry Orcas (Assault Hydrofoil)
   rotate: false
-  xy: 1119, 663
+  xy: 1366, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hybrid Trooper
   rotate: false
-  xy: 210, 396
+  xy: 519, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hyperspace Core
   rotate: false
-  xy: 1562, 946
+  xy: 604, 269
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Iron Arrow Besiegers (Missile Artillery)
   rotate: false
-  xy: 1562, 873
+  xy: 725, 431
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Itano's Disciples (Anti-Air Buggy)
   rotate: false
-  xy: 1647, 946
+  xy: 707, 358
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jabal Drop Mecha
   rotate: false
-  xy: 1647, 873
+  xy: 828, 520
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jovian Wolves Company (Exoframe Sniper)
   rotate: false
-  xy: 313, 485
+  xy: 622, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Laser Mecha
   rotate: false
-  xy: 1732, 946
+  xy: 810, 447
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Laser Tank
   rotate: false
-  xy: 1732, 873
+  xy: 931, 609
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Laser Trooper
   rotate: false
-  xy: 416, 574
+  xy: 725, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Buggy
   rotate: false
-  xy: 1817, 946
+  xy: 913, 536
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Hovercraft
   rotate: false
-  xy: 1817, 873
+  xy: 1034, 698
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Light Hydrofoil
   rotate: false
-  xy: 1191, 663
+  xy: 1438, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lurker
   rotate: false
-  xy: 519, 663
+  xy: 828, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Marine
   rotate: false
-  xy: 622, 752
+  xy: 4, 132
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Martian Free Rifles (Colony Rifleman)
   rotate: false
-  xy: 725, 841
+  xy: 107, 221
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mirage Tank
   rotate: false
-  xy: 1902, 946
+  xy: 1016, 625
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mirage Trooper
   rotate: false
-  xy: 828, 930
+  xy: 210, 310
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Artillery
   rotate: false
-  xy: 1902, 873
+  xy: 1137, 787
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Destroyer
   rotate: false
-  xy: 1016, 567
+  xy: 1510, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Rover
   rotate: false
-  xy: 1137, 800
+  xy: 1119, 714
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mnewer Attack Mecha
   rotate: false
-  xy: 1222, 800
+  xy: 1240, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile Fortress
   rotate: false
-  xy: 1307, 800
+  xy: 1325, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mycon
   rotate: false
-  xy: 4, 129
+  xy: 313, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nanite Life Support
   rotate: false
-  xy: 1392, 800
+  xy: 1410, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Narco Smuggler
   rotate: false
-  xy: 107, 218
+  xy: 416, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nemo's Pack (Submersible)
   rotate: false
-  xy: 1088, 599
+  xy: 1582, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Neo-BOPE
   rotate: false
-  xy: 210, 307
+  xy: 519, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Neon Dragon
   rotate: false
-  xy: 313, 396
+  xy: 622, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nerve Staple Conscript
   rotate: false
-  xy: 416, 485
+  xy: 725, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oathkeeper
   rotate: false
-  xy: 519, 574
+  xy: 828, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Panther
   rotate: false
-  xy: 622, 663
+  xy: 931, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Peacekeeper Militia
   rotate: false
-  xy: 725, 752
+  xy: 4, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Penal Legionnaire
   rotate: false
-  xy: 828, 841
+  xy: 107, 132
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Phantom Submersible
   rotate: false
-  xy: 1160, 599
+  xy: 1654, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Photon Gunners (Laser Trooper)
   rotate: false
-  xy: 931, 930
+  xy: 210, 221
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/PrismTech Field Testers (Laser Tank)
   rotate: false
-  xy: 1477, 800
+  xy: 1495, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Privateer
   rotate: false
-  xy: 1088, 535
+  xy: 1726, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Recon Mecha
   rotate: false
-  xy: 1562, 800
+  xy: 1580, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Redhorse Striders (Recon Mecha)
   rotate: false
-  xy: 1647, 800
+  xy: 1665, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Religious Martyr
   rotate: false
-  xy: 4, 40
+  xy: 313, 310
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Religious Zealot
   rotate: false
-  xy: 107, 129
+  xy: 416, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rock Hoppers (Drop Trooper)
   rotate: false
-  xy: 210, 218
+  xy: 519, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rover Boys (Rover Explorer)
   rotate: false
-  xy: 1732, 800
+  xy: 1750, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rover Explorer
   rotate: false
-  xy: 1817, 800
+  xy: 1835, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rover Surveyor
   rotate: false
-  xy: 1902, 800
+  xy: 1920, 876
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/SPECTRE (Stealth Operative)
   rotate: false
-  xy: 313, 307
+  xy: 622, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Scavenger
   rotate: false
-  xy: 416, 396
+  xy: 725, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Seadog
   rotate: false
-  xy: 1160, 535
+  xy: 1798, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Siege Walker
   rotate: false
-  xy: 313, 72
+  xy: 1222, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Silver Arbalest Company (Artillery Mecha)
   rotate: false
-  xy: 416, 161
+  xy: 1307, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops
   rotate: false
-  xy: 519, 485
+  xy: 828, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stalker
   rotate: false
-  xy: 622, 574
+  xy: 931, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stasis Pod Arrays
   rotate: false
-  xy: 398, 88
+  xy: 1392, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stealth Operative
   rotate: false
-  xy: 725, 663
+  xy: 1034, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Steel Legion Detachment (Colonial Armor)
   rotate: false
-  xy: 519, 250
+  xy: 1477, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stim Trooper
   rotate: false
-  xy: 828, 752
+  xy: 107, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Submersible
   rotate: false
-  xy: 1232, 599
+  xy: 1870, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sundowner Company (Exoframe Soldier)
   rotate: false
-  xy: 931, 841
+  xy: 210, 132
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Svyatogor Crawler
   rotate: false
-  xy: 501, 177
+  xy: 1562, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Swarm Drones
   rotate: false
-  xy: 1232, 535
+  xy: 1942, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/T-Series
   rotate: false
-  xy: 1034, 930
+  xy: 313, 221
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tactical Mobile Uplink
   rotate: false
-  xy: 622, 339
+  xy: 1647, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Bugwolf
   rotate: false
-  xy: 107, 40
+  xy: 416, 310
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Darter
   rotate: false
-  xy: 210, 129
+  xy: 519, 399
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Echidna
   rotate: false
-  xy: 313, 218
+  xy: 622, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Gun Lobster
   rotate: false
-  xy: 416, 307
+  xy: 725, 577
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Stalker
   rotate: false
-  xy: 519, 396
+  xy: 828, 666
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tame Winghead
   rotate: false
-  xy: 622, 485
+  xy: 931, 755
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tidehunters (Corvette)
   rotate: false
-  xy: 1263, 663
+  xy: 707, 294
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Valente APC
   rotate: false
-  xy: 604, 266
+  xy: 1732, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Visionary
   rotate: false
-  xy: 725, 574
+  xy: 1034, 844
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Vulture Combat Drone
   rotate: false
-  xy: 1335, 672
+  xy: 689, 230
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Buggy
   rotate: false
-  xy: 725, 428
+  xy: 1817, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/War Casket
   rotate: false
-  xy: 707, 355
+  xy: 1902, 803
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wendigo
   rotate: false
-  xy: 828, 663
+  xy: 1137, 933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Winghead
   rotate: false
-  xy: 931, 752
+  xy: 210, 43
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Worker
-  rotate: false
-  xy: 828, 517
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Worker-1
-  rotate: false
-  xy: 810, 444
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Worker-2
-  rotate: false
-  xy: 931, 606
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Worker-xeno
-  rotate: false
-  xy: 913, 533
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Worker-xeno-1
-  rotate: false
-  xy: 1034, 695
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Worker-xeno-2
-  rotate: false
-  xy: 1034, 695
-  size: 77, 65
-  orig: 77, 65
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Wurm
   rotate: false
-  xy: 1034, 841
+  xy: 313, 132
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/ZANKER Mecha
   rotate: false
-  xy: 1119, 727
+  xy: 501, 34
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zero Point Ship Reactor
   rotate: false
-  xy: 1204, 727
+  xy: 604, 196
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
