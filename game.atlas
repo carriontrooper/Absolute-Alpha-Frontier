@@ -165,21 +165,21 @@ TileSets/AbsoluteUnits/Units/Combat Rover
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Constructor-Landfall era
+TileSets/AbsoluteUnits/Units/Constructor
   rotate: false
   xy: 416, 164
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Constructor-Landfall era-1
+TileSets/AbsoluteUnits/Units/Constructor-1
   rotate: false
   xy: 1325, 949
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Constructor-Landfall era-2
+TileSets/AbsoluteUnits/Units/Constructor-2
   rotate: false
   xy: 1410, 949
   size: 77, 65
@@ -312,23 +312,37 @@ TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-xeno
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-1
   rotate: false
   xy: 913, 472
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-2
+  rotate: false
+  xy: 913, 472
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Civilian-xeno
   rotate: false
   xy: 1016, 561
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer-xeno
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer
   rotate: false
   xy: 1119, 650
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/EmbarkedUnit-Colonizer-xeno
+  rotate: false
+  xy: 1222, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -342,14 +356,14 @@ TileSets/AbsoluteUnits/Units/EmbarkedUnit-Gigantes
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military
   rotate: false
-  xy: 1222, 739
+  xy: 1294, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/EmbarkedUnit-Military-xeno
   rotate: false
-  xy: 1294, 739
+  xy: 1366, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -552,7 +566,7 @@ TileSets/AbsoluteUnits/Units/Hovertank
   index: -1
 TileSets/AbsoluteUnits/Units/Hungry Orcas (Assault Hydrofoil)
   rotate: false
-  xy: 1366, 739
+  xy: 1438, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -636,7 +650,7 @@ TileSets/AbsoluteUnits/Units/Light Hovercraft
   index: -1
 TileSets/AbsoluteUnits/Units/Light Hydrofoil
   rotate: false
-  xy: 1438, 739
+  xy: 1510, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -685,7 +699,7 @@ TileSets/AbsoluteUnits/Units/Missile Artillery
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Destroyer
   rotate: false
-  xy: 1510, 739
+  xy: 1582, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -734,7 +748,7 @@ TileSets/AbsoluteUnits/Units/Narco Smuggler
   index: -1
 TileSets/AbsoluteUnits/Units/Nemo's Pack (Submersible)
   rotate: false
-  xy: 1582, 739
+  xy: 1654, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -790,7 +804,7 @@ TileSets/AbsoluteUnits/Units/Penal Legionnaire
   index: -1
 TileSets/AbsoluteUnits/Units/Phantom Submersible
   rotate: false
-  xy: 1654, 739
+  xy: 1726, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -811,7 +825,7 @@ TileSets/AbsoluteUnits/Units/PrismTech Field Testers (Laser Tank)
   index: -1
 TileSets/AbsoluteUnits/Units/Privateer
   rotate: false
-  xy: 1726, 739
+  xy: 1798, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -888,7 +902,7 @@ TileSets/AbsoluteUnits/Units/Scavenger
   index: -1
 TileSets/AbsoluteUnits/Units/Seadog
   rotate: false
-  xy: 1798, 739
+  xy: 1870, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -951,7 +965,7 @@ TileSets/AbsoluteUnits/Units/Stim Trooper
   index: -1
 TileSets/AbsoluteUnits/Units/Submersible
   rotate: false
-  xy: 1870, 739
+  xy: 1942, 739
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -972,7 +986,7 @@ TileSets/AbsoluteUnits/Units/Svyatogor Crawler
   index: -1
 TileSets/AbsoluteUnits/Units/Swarm Drones
   rotate: false
-  xy: 1942, 739
+  xy: 707, 294
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1035,7 +1049,7 @@ TileSets/AbsoluteUnits/Units/Tame Winghead
   index: -1
 TileSets/AbsoluteUnits/Units/Tidehunters (Corvette)
   rotate: false
-  xy: 707, 294
+  xy: 689, 230
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1056,7 +1070,7 @@ TileSets/AbsoluteUnits/Units/Visionary
   index: -1
 TileSets/AbsoluteUnits/Units/Vulture Combat Drone
   rotate: false
-  xy: 689, 230
+  xy: 398, 27
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
